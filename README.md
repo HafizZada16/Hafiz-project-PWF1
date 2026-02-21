@@ -1,5 +1,5 @@
 Screenshot Tugas :
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4afb024d-aeb7-43f7-acb4-d0e8d15e1ed8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de008bd4-f3e8-470a-b1e5-9adac0862748" />
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
