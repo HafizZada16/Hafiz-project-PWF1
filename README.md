@@ -1,9 +1,10 @@
 Screenshot Tugas P2 :
-/about
+
+- /about
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/298ad925-45d1-4011-a298-4460229bbc00" />
-Register
+- Register
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5ba13507-e5b6-40fe-8850-761f3f8242be" />
-Login
+- Login
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5952c751-6592-48b6-abab-f6fadfa35bab" />
 
 
