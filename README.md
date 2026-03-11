@@ -1,4 +1,18 @@
-Screenshot Tugas :
+Screenshot Tugas P2 :
+
+- /about
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/298ad925-45d1-4011-a298-4460229bbc00" />
+
+- Register
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5ba13507-e5b6-40fe-8850-761f3f8242be" />
+
+- Login
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5952c751-6592-48b6-abab-f6fadfa35bab" />
+
+
+---
+
+Screenshot Tugas P1 :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de008bd4-f3e8-470a-b1e5-9adac0862748" />
 
 
