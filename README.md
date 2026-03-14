@@ -1,3 +1,11 @@
+Screenshot Tugas P3 : 
+
+- ERD from Designer PhpMyAdmin in Laragon
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/e74a2bee-a3e5-4ea3-a916-d27fbb39cc96" />
+
+
+---
+
 Screenshot Tugas P2 :
 
 - /about
