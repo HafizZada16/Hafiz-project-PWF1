@@ -1,3 +1,22 @@
+Screenshot Tugas P4 :
+
+- /product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-15 204405.png"/>
+
+- Add Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135115.png"/>
+
+- Edit Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135150.png"/>
+
+- Delete Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135207.png"/>
+
+- Details Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135036.png"/>
+
+---
+
 Screenshot Tugas P3 :
 
 - ERD from Designer PhpMyAdmin in Laragon
