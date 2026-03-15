@@ -1,28 +1,44 @@
-Screenshot Tugas P3 : 
+Screenshot Tugas P4 :
+
+- /product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-15 204405.png"/>
+
+- Add Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135115.png"/>
+
+- Edit Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135150.png"/>
+
+- Delete Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135207.png"/>
+
+- Details Product
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135036.png"/>
+
+---
+
+Screenshot Tugas P3 :
 
 - ERD from Designer PhpMyAdmin in Laragon
-<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/e74a2bee-a3e5-4ea3-a916-d27fbb39cc96" />
-
+  <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/e74a2bee-a3e5-4ea3-a916-d27fbb39cc96" />
 
 ---
 
 Screenshot Tugas P2 :
 
 - /about
-<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/298ad925-45d1-4011-a298-4460229bbc00" />
+  <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/298ad925-45d1-4011-a298-4460229bbc00" />
 
 - Register
-<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5ba13507-e5b6-40fe-8850-761f3f8242be" />
+  <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5ba13507-e5b6-40fe-8850-761f3f8242be" />
 
 - Login
-<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5952c751-6592-48b6-abab-f6fadfa35bab" />
-
+  <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/5952c751-6592-48b6-abab-f6fadfa35bab" />
 
 ---
 
 Screenshot Tugas P1 :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de008bd4-f3e8-470a-b1e5-9adac0862748" />
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
