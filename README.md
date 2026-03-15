@@ -13,7 +13,7 @@ Screenshot Tugas P4 :
   <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135207.png"/>
 
 - Details Product
-  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-14 135036.png"/>
+  <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-15 205336.png"/>
 
 ---
 
