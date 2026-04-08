@@ -1,5 +1,16 @@
 Screenshot Tugas P4 :
 
+- ProductPage sebagai role admin :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d113c2ff-9fa0-4816-abb1-6db7a910b08c" />
+
+- ProductPage sebagai role user :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e67b90d6-663a-4722-be97-1ace421ad325" />
+
+
+---
+
+Screenshot Tugas P4 :
+
 - /product
   <img width="1919" height="1022" alt="image" src="ss/Screenshot 2026-03-15 204405.png"/>
 
