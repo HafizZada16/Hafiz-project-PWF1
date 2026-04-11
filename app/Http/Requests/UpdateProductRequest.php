@@ -25,7 +25,7 @@ class UpdateProductRequest extends FormRequest
             'name' => 'required|string|max:255',
             'quantity' => 'required|integer|min:1',
             'price' => 'required|numeric|min:0',
-            'user_id' => 'required|exists:users,id',
+            'user_id' => 'nullable|exists:users,id',
         ];
     }
 
@@ -40,7 +40,6 @@ class UpdateProductRequest extends FormRequest
             'price.required' => 'Harga wajib diisi.',
             'price.numeric' => 'Harga harus berupa angka.',
             'price.min' => 'Harga tidak boleh kurang dari 0.',
-            'user_id.required' => 'Pemilik (owner) wajib dipilih.',
             'user_id.exists' => 'User yang dipilih tidak valid.',
         ];
     }

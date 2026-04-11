@@ -21,15 +21,20 @@ class ProductController extends Controller
     public function store(StoreProductRequest $request)
     {
         $validated = $request->validated();
+        
+        // If user_id is not provided (not an admin or left blank), set it to the current user
+        if (!isset($validated['user_id']) || empty($validated['user_id'])) {
+            $validated['user_id'] = auth()->id();
+        }
 
-        $product = Product::create($validated);
+        Product::create($validated);
 
-        return redirect()->route('product.index')->with('success', 'Product created successfully.');
+        return redirect()->route('product.index')->with('success', 'Produk berhasil ditambahkan.');
     }
 
     public function create()
     {
-        $users = User::orderBy('name')->get();
+        $users = Gate::allows('manage-product') ? User::orderBy('name')->get() : collect();
         return view('product.create', compact('users'));
     }
 
@@ -45,17 +50,15 @@ class ProductController extends Controller
         $product = Product::findOrFail($id);
         Gate::authorize('update', $product);
 
-        $validated = $request->validated();
+        $product->update($request->validated());
 
-        $product->update($validated);
-
-        return redirect()->route('product.index')->with('success', 'Product updated successfully.');
+        return redirect()->route('product.index')->with('success', 'Produk berhasil diperbarui.');
     }
 
     public function edit(Product $product)
     {
         Gate::authorize('update', $product);
-        $users = User::orderBy('name')->get();
+        $users = Gate::allows('manage-product') ? User::orderBy('name')->get() : collect();
         return view('product.edit', compact('product', 'users'));
     }
 
