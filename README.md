@@ -1,9 +1,17 @@
+Screenshot Tugas P7 :
+- Add tombol Edit dan Delete pada menu view
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe7ccd2e-86b2-4334-a2a4-c7bcf02d088c" />
+ 
+---
+
 Screenshot Tugas P6 :
 - Add Product tanpa isi value :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5577c337-3bdf-4744-ab38-643103464c07" />
+
 - Update Product dengan data salah :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a0e5fcf-0f11-468d-9d8b-5cd2b0b92ea9" />
 
+---
 
 Screenshot Tugas P5 :
 
