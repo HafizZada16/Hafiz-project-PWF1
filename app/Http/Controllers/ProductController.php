@@ -14,7 +14,7 @@ class ProductController extends Controller
     public function index()
     {
         // Using paginate(10) to match the links() call in the view blade image
-        $products = Product::paginate(10);
+        $products = Product::with(['user', 'category'])->paginate(10);
         return view('product.index', compact('products'));
     }
 
@@ -35,7 +35,8 @@ class ProductController extends Controller
     public function create()
     {
         $users = Gate::allows('manage-product') ? User::orderBy('name')->get() : collect();
-        return view('product.create', compact('users'));
+        $categories = \App\Models\Category::orderBy('name')->get();
+        return view('product.create', compact('users', 'categories'));
     }
 
     public function show($id)
@@ -59,7 +60,8 @@ class ProductController extends Controller
     {
         Gate::authorize('update', $product);
         $users = Gate::allows('manage-product') ? User::orderBy('name')->get() : collect();
-        return view('product.edit', compact('product', 'users'));
+        $categories = \App\Models\Category::orderBy('name')->get();
+        return view('product.edit', compact('product', 'users', 'categories'));
     }
 
     public function delete($id)

@@ -28,6 +28,7 @@
                                     <th class="px-6 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Name</th>
                                     <th class="px-6 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Quantity</th>
                                     <th class="px-6 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Price</th>
+                                    <th class="px-6 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Category</th>
                                     <th class="px-6 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Owner</th>
                                     <th class="px-6 py-3 text-center text-xs font-semibold text-white uppercase tracking-wider">Actions</th>
                                 </tr>
@@ -48,6 +49,9 @@
                                         </td>
                                         <td class="px-6 py-4 text-white font-mono">
                                             Rp {{ number_format($product->price, 0, ',', '.') }}
+                                        </td>
+                                        <td class="px-6 py-4 text-white">
+                                            {{ $product->category->name ?? '-' }}
                                         </td>
                                         <td class="px-6 py-4 text-white">
                                             {{ $product->user->name ?? '-' }}

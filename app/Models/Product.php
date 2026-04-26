@@ -6,8 +6,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
 {
+    protected $table = 'product';
+
     protected $fillable = [
         'user_id',
+        'category_id',
         'name',
         'quantity',
         'price',
@@ -22,10 +25,10 @@ class Product extends Model
     }
 
     /**
-     * Get the kategoris for the product.
+     * Get the category that owns the product.
      */
-    public function kategoris()
+    public function category()
     {
-        return $this->hasMany(Kategori::class);
+        return $this->belongsTo(Category::class, 'category_id');
     }
 }
