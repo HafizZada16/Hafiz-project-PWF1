@@ -11,6 +11,7 @@ Screenshot Tugas P8 ( UCP 1 ) :
 - Add gates untuk memberikan rules akses untuk ke Category
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d76b6a3-1057-412a-a815-5c0718a2ee2e" />
 
+---
 
 Screenshot Tugas P7 :
 - Add tombol Edit dan Delete pada menu view
