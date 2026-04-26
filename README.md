@@ -1,10 +1,13 @@
 Screenshot Tugas P8 ( UCP 1 ) :
 - Category Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21e67c54-7ef4-4af2-8aeb-ab0c38011d1c" />
+
 - Add Category
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7af809cc-3c4a-45a5-904f-ca47d63b0226" />
+
 - Add Pilih Category di Form Product
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88f71824-bb14-469c-8f4d-ce673bc819d2" />
+
 - Add gates untuk memberikan rules akses untuk ke Category
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d76b6a3-1057-412a-a815-5c0718a2ee2e" />
 
