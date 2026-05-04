@@ -1,3 +1,16 @@
+Screenshot Tugas P9 :
+- auth.getToken
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ced103d-4e78-44be-970e-2bfb12edf315" />
+
+- Add Product
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8dae277-78a8-4f37-82c4-79c2d064891c" />
+
+- Add Category
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfa71f5f-4fef-48a4-8709-26a7fd728be6" />
+
+
+---
+
 Screenshot Tugas P8 ( UCP 1 ) :
 - Category Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21e67c54-7ef4-4af2-8aeb-ab0c38011d1c" />
